@@ -5,3 +5,6 @@ Mai achha hu aap kaise h.
 mst chl rhi h growth.
 conflict problem coditions:  maan lete h, main branch me 5 lines ki code h , aur jb hm iski copy banate h to wo 5 line ki copy bn jayegi,, but agr hm main branch me code likhte h copy hone ke baad aur copied  created branch me bhi kuchh likhte h to git conflict hoga. 
 chlo nav baar banate H
+
+chaliye stashing smjte h?
+: jb hm kisi branch me kaam kr rhe ho and apne kuch likha,aur usse commit nhi kiya, aur aap dusri branch me jaane ki kosis krte ho to git apko boltah ki,apne savepoints nhi kiye h delete ho jayegi, hm chahe to un changes  ko delete hone ya fir un changes ko draft kr skte h, jb bhi draft krenge to wo changes na hi delete honge aur na hi add honge but beech me hi kahi  dale rahenge,aur phir baad me jb bhi APP wapis aaye to wo changes waaps se apply kr skte h.
