@@ -8,3 +8,4 @@ chlo nav baar banate H
 
 chaliye stashing smjte h?
 : jb hm kisi branch me kaam kr rhe ho and apne kuch likha,aur usse commit nhi kiya, aur aap dusri branch me jaane ki kosis krte ho to git apko boltah ki,apne savepoints nhi kiye h delete ho jayegi, hm chahe to un changes  ko delete hone ya fir un changes ko draft kr skte h, jb bhi draft krenge to wo changes na hi delete honge aur na hi add honge but beech me hi kahi  dale rahenge,aur phir baad me jb bhi APP wapis aaye to wo changes waaps se apply kr skte h.
+git stash krne baad branch switch kr skte h.
