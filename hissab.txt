@@ -4,3 +4,5 @@ aaj ka hissaab h - 15333
 4 feb ka hisaab --10000
 
 5feb ka hissab -- 15000
+
+6feb ka hissab for pink mode -2000
